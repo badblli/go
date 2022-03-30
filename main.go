@@ -11,4 +11,5 @@ func main() {
 
 	var a int = 10
 	fmt.Println(a)
+	fmt.Println(a + 10)
 }
